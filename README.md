@@ -3681,7 +3681,7 @@ Throughout the later years (2000s onward), the foreign gross outpaced the domest
 # Currently 
 **Studio release films both in theaters and on streaming platforms this has unlocked new revenue models.This explansion caters for people who don't go to watch films in studios' and is a much cheaper option in comparison.**
 
-# 7 CONCLUSION
+# 7. CONCLUSION
 
 * The most popular genre is Drama constituting 26.1% of all the movies.
 * **R** (Restricted) consitute 42.0% of all the movies and **PG-13** (parents strongly cautioned) is 31.6%.
@@ -3694,7 +3694,7 @@ Throughout the later years (2000s onward), the foreign gross outpaced the domest
 *  There was a sharp drop in both domestic and foreign revenues in 2020, likely due to the **COVID-19 pandemic** that severely affected global film production and theater attendance.
 *  Genres e.g., Gay and Lesbian, Cult Movies, Anime and Manga have very few reviews. This could indicate niche audiences or fewer total films reviewed in these genres.
 
-# 8 RECOMMENDATIONS
+# 8. RECOMMENDATIONS
 
 * The stakeholders can invest in genres like Drama, Adventure, Romance, Crime and Mystery because they have a balance between popularity and also have a generally good overall rating.
 * The stakeholders should invest in movies that are rated PG-13 films because they will give us a broad audience,while investing in R-rated films gives us a creative flexiblity because of the targeted age group and a niche appeal to the consumers.
