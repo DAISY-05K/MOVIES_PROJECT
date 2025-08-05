@@ -1,4 +1,4 @@
-# <span style="font-family: 'Brush Script MT', cursive;font-size: 56px;color: hotpink ;">FROM SCRIPT TO STATS </span>  - THE FILM INDUSTRY ANALYSIS
+# *FROM SCRIPTS TO STATS* - THE FILM INDUSTRY ANALYSIS
 
 # 1. BUSINESS UNDERSTANDING
 Everyone loves a story and movies tell them best.The movie industry whether hollywood,nollywood or even bollywood is a very intresting industry.Alot goes into making a film : production ,casting ,distribution and many other major sectors.For the longest time the industry has been viewed as a **high risk, high reward venture**.This is because of the unpredictable box office performance to shifting audience prefrences among other factors.For example movie budgets can go up to billions of dollars and not a guaranteed return on profits.
@@ -7,7 +7,7 @@ However, the rise of international markets streaming platforms and production st
 
 In this analysis we shall be comparing budgets to profits,analyze genre performance in the box office and analyze trends over time to help us derive useful insights over the years.All this to answer questions and have useful information to prepare us before we venture into this industry. 
 
-<img src="blackpanther.webp" width="900" height="300" style="image-rendering: auto;">
+<img src="blackpanther.webp" width="900" height="600" style="image-rendering: auto;">
 
 
 # 2. OBJECTIVES
